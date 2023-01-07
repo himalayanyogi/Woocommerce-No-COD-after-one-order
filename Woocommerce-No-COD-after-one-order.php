@@ -3,7 +3,7 @@
 /*
 Plugin Name: NO COD
 Plugin URI: thehimalayanyogi.buzz
-Description: A wordpress plugin to not llow users to use COD after one order.
+Description: A wordpress plugin to not allow users to use COD after one order.
 Version: 1.0
 Author: Shivendra Kumar
 */
