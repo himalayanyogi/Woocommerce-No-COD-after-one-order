@@ -3,7 +3,7 @@
 /*
 Plugin Name: NO COD
 Plugin URI: thehimalayanyogi.buzz
-Description: Displays the current time in India in the top menu of the WordPress dashboard.
+Description: A wordpress plugin to not llow users to use COD after one order.
 Version: 1.0
 Author: Shivendra Kumar
 */
